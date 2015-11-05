@@ -14,6 +14,6 @@ HEADERS += \
     include/Shader.h \
     include/polygon.h
 
-LIBS += -lSDL2 -lSDL2_ttf -lSDL2_image -lGL
+LIBS += -lSDL2 -lSDL2_image -lGL
 
 INCLUDEPATH += ./include
